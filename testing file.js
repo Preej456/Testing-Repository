@@ -20,7 +20,7 @@ Notepad++ v7.8.7 Enhancements & bug-fixes:
 18. Fix bug of Mark clearing in selection mode.
 19. Fix auto-completion suggest the same word while the word being modified.
 
-
+//Just a comment
 Included plugins:
 
 1.  NppExport v0.2.9
